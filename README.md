@@ -12,7 +12,7 @@ Muchos usuarios tienen dificultades para llevar un control eficiente de sus fina
 
 ## Integrantes del Equipo
 
-- [JohaN Nicolas Bautista Raba](https://github.com/usuario1)
+- [JohaN Nicolas Bautista Raba](https://github.com/NicolasBautista4037)
 
 ## Lista Inicial de Módulos del Sistema
 
