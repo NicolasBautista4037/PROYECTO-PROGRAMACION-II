@@ -35,23 +35,23 @@ Muchos usuarios tienen dificultades para gestionar sus finanzas de manera eficie
    - Integración con APIs de noticias económicas y de inversión.
    - Resúmenes periódicos sobre tendencias del mercado.
 
-## **Posibles Tecnologías Usadas**   
-### **1️⃣ Telegram Bot API**  
+## **Posibles Tecnologías a Utilizar**   
+1. **Telegram Bot API**  
    **¿Por qué?** Permite la comunicación entre los usuarios y el bot, procesando mensajes y comandos de manera fluida.  
 
-### **2️⃣ Python con Telebot / Node.js con Telegraf.js**  
+2. **Python con Telebot / Node.js con Telegraf.js**  
    **¿Por qué?** Facilitan la implementación del chatbot, ofreciendo bibliotecas optimizadas para interactuar con Telegram y procesar datos.  
 
-### **3️⃣ Firebase Firestore**  
+3. **Firebase Firestore**  
    **¿Por qué?** Almacena de manera segura las transacciones, presupuestos y configuraciones de usuario sin necesidad de gestionar servidores complejos.  
 
-### **4️⃣ Google Sheets API**  
+4. **Google Sheets API**  
    **¿Por qué?** Permite exportar los datos financieros a una hoja de cálculo, facilitando el análisis y almacenamiento de los registros del usuario.  
 
-### **5️⃣ Matplotlib / Pandas (Python)**  
+5. **Matplotlib / Pandas (Python)**  
    **¿Por qué?** Se utilizarán para generar reportes gráficos simples y análisis de patrones de gasto de los usuarios.  
 
-### **6️⃣ News API (Opcional)**  
+6. **News API (Opcional)**  
    **¿Por qué?** Si se implementa el módulo de noticias, esta API permitirá obtener información actualizada sobre inversiones y tendencias del mercado.  
 
 
