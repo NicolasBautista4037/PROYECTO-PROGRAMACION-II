@@ -55,6 +55,33 @@ Muchos usuarios tienen dificultades para gestionar sus finanzas de manera eficie
 6. **News API (Opcional)**  
    - Si se implementa el módulo de noticias, esta API permitirá obtener información actualizada sobre inversiones y tendencias del mercado.  
   
+## **Flujo del Sistema**  
 
+1. **Inicio y Autenticación**  
+   - El usuario inicia una conversación con el bot en Telegram.  
+   - Se valida su identidad a través de la API de Telegram.  
+   - Se registra en Firebase Firestore si es un nuevo usuario.  
 
+2. **Registro de Transacciones**  
+   - El usuario ingresa un comando para añadir ingresos o egresos.  
+   - El bot solicita detalles como monto, categoría y fecha.  
+   - Los datos se almacenan en Firebase Firestore.  
 
+3. **Generación de Reportes y Análisis**  
+   - El usuario consulta su balance o categorías de gasto.  
+   - El bot recupera y procesa los datos almacenados.  
+   - Se generan reportes y gráficos utilizando Pandas y Matplotlib.  
+
+4. **Gestión de Presupuestos y Recordatorios**  
+   - El usuario define límites de gasto en diferentes categorías.  
+   - Se configuran alertas cuando se alcanza un umbral de gasto.  
+   - El bot envía recordatorios automáticos sobre pagos y presupuesto.  
+
+5. **Interacción con Noticias y Tendencias Financieras (Opcional)**  
+   - El bot obtiene información de inversión mediante News API.  
+   - Se envían resúmenes periódicos de tendencias del mercado.  
+   - El usuario puede consultar datos actualizados sobre sectores financieros.  
+
+6. **Cierre de Sesión y Exportación de Datos**  
+   - El usuario puede exportar su historial financiero a Google Sheets.  
+   - Se permite cerrar sesión o eliminar su cuenta si lo desea.  
