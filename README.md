@@ -5,10 +5,13 @@ Este repositorio contiene todo lo relacionado con el desarrollo del proyecto par
 
 ## Breve Descripción del Problema que Resuelve
 
-Muchos usuarios tienen dificultades para llevar un control eficiente de sus finanzas personales, lo que puede generar gastos imprevistos y falta de planificación financiera. Este proyecto soluciona este problema al ofrecer un chatbot en Telegram que permite:
+Muchos usuarios tienen dificultades para gestionar sus finanzas de manera eficiente, lo que puede llevar a gastos innecesarios, falta de planificación y desequilibrios en su presupuesto. (opcional) Además, el acceso limitado a información sobre tendencias financieras e inversión dificulta la toma de decisiones estratégicas. Este proyecto soluciona este problema al ofrecer un chatbot en Telegram que permite:
 - Registrar y clasificar ingresos y egresos.
 - Generar reportes interactivos de gastos.
-- Brindar asesoría financiera básica de forma automatizada.
+- Recibir recordatorios inteligentes sobre pagos y presupuestos.
+- Brindar asesoría financiera básica de forma automatizada mediante análisis de patrones de gasto, alertas de exceso, sugerencias de ahorro y consejos de 
+  compras inteligentes.
+- Recibir noticias de inversión y tendencias del mercado. (Opcional) 
 
 ## Integrantes del Equipo
 
@@ -27,3 +30,7 @@ Muchos usuarios tienen dificultades para llevar un control eficiente de sus fina
 3. **Interfaz e Interacción (Chatbot de Telegram):**  
    - Comunicación en tiempo real para la introducción de datos y consulta de reportes.  
    - Comandos para gestionar transacciones, presupuestos y recordatorios.
+
+4. **Módulo de Noticias y Tendencias Financieras (Opcional):**  
+   - Integración con APIs de noticias económicas y de inversión.
+   - Resúmenes periódicos sobre tendencias del mercado.
