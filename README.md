@@ -84,4 +84,9 @@ Muchos usuarios tienen dificultades para gestionar sus finanzas de manera eficie
 
 6. **Cierre de Sesión y Exportación de Datos**  
    - El usuario puede exportar su historial financiero a Google Sheets.  
-   - Se permite cerrar sesión o eliminar su cuenta si lo desea.  
+   - Se permite cerrar sesión o eliminar su cuenta si lo desea.
+
+## Cronograma de actividades
+
+  - [Notion](https://www.notion.so/1ba0617628a88039bb99f026a0142996?v=1ba0617628a880e5a9fa000ca4f8fe97)
+
